@@ -1,0 +1,1 @@
+This is Ariana's first Git project. 
